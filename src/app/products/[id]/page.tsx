@@ -1,4 +1,4 @@
-import PriceTag from "@/app/components/PriceTag";
+import PriceTag from "@/components/PriceTag";
 import { prisma } from "@/lib/db/prisma"
 import { Metadata } from "next";
 import Image from "next/image";
@@ -14,7 +14,7 @@ interface ProductPageProps {
 }
 
 const getProduct = cache(async (id: string) => {
-    const product = await prisma.product.findUnique({where: {id}})
+    const product = await prisma.product.findUnique({where: {id} })
         if (!product) notFound();
         return product;
 })
