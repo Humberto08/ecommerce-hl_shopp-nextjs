@@ -2,13 +2,11 @@
 const nextConfig = {
   images: {
     remotePatterns: [
-      { hostname: "images.unplash.com"},
+      { hostname: "images.unsplash.com" },
       { hostname: "lh3.googleusercontent.com" },
     ],
   },
   
-}
+};
 
-module.exports = nextConfig
-
-
+module.exports = nextConfig;
