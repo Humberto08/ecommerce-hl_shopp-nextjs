@@ -23,7 +23,7 @@ async function addProduct(formData: FormData) {
   const price = Number(formData.get("price") || 0);
 
   if (!name || !description || !imageUrl || !price) {
-    throw Error("Missing required fields");
+    throw Error("Missing required fields - (Campos obrigatórios ausentes)");
   }
   
 
