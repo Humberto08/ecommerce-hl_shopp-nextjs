@@ -1,11 +1,10 @@
-
 # Ecommerce HL Shopp 
 
 
  Neste projeto, foi criado um site de comércio eletrônico com Next.js 14, abordando ações do servidor, Prisma, segurança com Next-Auth, MongoDB, Google Login e recursos como carrinhos anônimos. A interface será aprimorada com TailwindCSS e DaisyUI. A implantação no Vercel, otimização de metadados, caching com React e ferramentas de desenvolvedor são abordados para facilitar a jornada de codificação.
 
 
-![alt imagem de capa](./.github/logo.png)
+<div align="center">![alt imagem de capa](./.github/logo.png)</div>
 
 
 ## Stack utilizada
@@ -82,8 +81,13 @@ Abra [http://localhost:3000](http://localhost:3000) abra seu navegador e veja o 
 
 ```
 
+
+
+ ## ## Autores
+
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Humberto Luciano</p>
   <div id="contatos" align="center">
     <a href="https://www.linkedin.com/in/humberto-luciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
