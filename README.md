@@ -69,8 +69,4 @@ Abra [http://localhost:3000](http://localhost:3000) abra seu navegador e veja o 
 - Simplificação de solicitações Prisma com cache React: A otimização de solicitações Prisma é alcançada por meio do cache React, melhorando o desempenho e a eficiência.
 
 
-```
 
-## Autores
-
-- [Humberto Luciano](https://www.github.com/humberto08)
