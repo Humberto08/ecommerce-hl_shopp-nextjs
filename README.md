@@ -5,7 +5,7 @@
  Neste projeto, foi criado um site de comércio eletrônico com Next.js 14, abordando ações do servidor, Prisma, segurança com Next-Auth, MongoDB, Google Login e recursos como carrinhos anônimos. A interface será aprimorada com TailwindCSS e DaisyUI. A implantação no Vercel, otimização de metadados, caching com React e ferramentas de desenvolvedor são abordados para facilitar a jornada de codificação.
 
 
-![alt imagem de capa](./.github/logo.png)
+![alt imagem de capa]<(./.github/logo.png) align="center">
 
 
 ## Stack utilizada
@@ -81,6 +81,7 @@ npm run dev
 Abra [http://localhost:3000](http://localhost:3000) abra seu navegador e veja o resultado.
 
 ```
+##
 
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Humberto Luciano</p>
