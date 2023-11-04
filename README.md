@@ -5,7 +5,7 @@
  Neste projeto, foi criado um site de comércio eletrônico com Next.js 14, abordando ações do servidor, Prisma, segurança com Next-Auth, MongoDB, Google Login e recursos como carrinhos anônimos. A interface será aprimorada com TailwindCSS e DaisyUI. A implantação no Vercel, otimização de metadados, caching com React e ferramentas de desenvolvedor são abordados para facilitar a jornada de codificação.
 
 
-![alt imagem de capa]<(./.github/logo.png) align="center">
+<(![alt imagem de capa]./.github/logo.png) align="center">
 
 
 ## Stack utilizada
