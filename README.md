@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 
-4.Abra [http://localhost:3000](http://localhost:3000) abra seu navegador e veja o resultado.
+4.Abra [http://localhost:3000](http://localhost:3000) seu navegador e veja o resultado.
 
 ## Funcionalidades
 
